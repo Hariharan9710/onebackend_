@@ -1,0 +1,109 @@
+{
+  "generatedAt": 1771909455949,
+  "questions": [
+    {
+      "id": 29,
+      "question": "Which hook is used for performance optimization?",
+      "options": [
+        "useDebug",
+        "useCallback",
+        "useToggle",
+        "useName"
+      ],
+      "correct": "useCallback",
+      "category": "react",
+      "questionType": "mcq"
+    },
+    {
+      "id": 14,
+      "question": "What does the COUNT() function do?",
+      "options": [
+        "Returns sum",
+        "Returns number of rows",
+        "Returns average",
+        "Returns max value"
+      ],
+      "correct": "Returns number of rows",
+      "category": "sql",
+      "questionType": "mcq"
+    },
+    {
+      "id": 22,
+      "question": "Which Spring annotation is used for dependency injection?",
+      "options": [
+        "@Autowired",
+        "@Injectable",
+        "@Import",
+        "@Service"
+      ],
+      "correct": "@Autowired",
+      "category": "spring",
+      "questionType": "mcq"
+    },
+    {
+      "id": 28,
+      "question": "Which SQL function returns the largest value?",
+      "options": [
+        "LARGE()",
+        "HIGH()",
+        "MAX()",
+        "BIG()"
+      ],
+      "correct": "MAX()",
+      "category": "sql",
+      "questionType": "mcq"
+    },
+    {
+      "id": 7,
+      "question": "Spring Boot is used for?",
+      "options": [
+        "Game development",
+        "Web application development",
+        "Mobile development",
+        "Operating system"
+      ],
+      "correct": "Web application development",
+      "category": "spring",
+      "questionType": "mcq"
+    },
+    {
+      "id": 6,
+      "question": "Which hook is used for managing state in React?",
+      "options": [
+        "useEvent",
+        "useState",
+        "useProps",
+        "useController"
+      ],
+      "correct": "useState",
+      "category": "react",
+      "questionType": "mcq"
+    },
+    {
+      "id": 12,
+      "question": "Which method is used to start a thread in Java?",
+      "options": [
+        "run()",
+        "begin()",
+        "execute()",
+        "start()"
+      ],
+      "correct": "start()",
+      "category": "java",
+      "questionType": "mcq"
+    },
+    {
+      "id": 15,
+      "question": "React uses which syntax extension?",
+      "options": [
+        "TSX",
+        "XML",
+        "JSX",
+        "HMTLx"
+      ],
+      "correct": "JSX",
+      "category": "react",
+      "questionType": "mcq"
+    }
+  ]
+}
